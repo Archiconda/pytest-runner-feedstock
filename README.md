@@ -16,8 +16,10 @@ Summary: Invoke py.test as distutils command with dependency resolution.
 Current build status
 ====================
 
-All platforms:
-[![noarch](https://img.shields.io/circleci/project/github/conda-forge/pytest-runner-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/pytest-runner-feedstock)
+[![Linux](https://img.shields.io/circleci/project/github/conda-forge/pytest-runner-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/pytest-runner-feedstock)
+[![OSX](https://img.shields.io/travis/conda-forge/pytest-runner-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/pytest-runner-feedstock)
+[![Windows](https://img.shields.io/appveyor/ci/conda-forge/pytest-runner-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/pytest-runner-feedstock/branch/master)
+[![linux-aarch64](https://img.shields.io/shippable/5c32977c302eb707003bfa02/aarch64.svg?label=linux-aarch64)](https://app.shippable.com/github/Archiconda/pytest-runner-feedstock)
 
 Current release info
 ====================
